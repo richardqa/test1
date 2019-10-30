@@ -1,0 +1,10 @@
+server:
+  servlet:
+    context-path: /mcs-servicio-renhice/
+
+spring:
+  aop:
+    proxy-target-class: true
+
+logging:
+  config: /opt/data/mcs-minsa/log/mcs-servicio-renhice/log4j2-mcs-servicio-renhice.xml

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.gob.minsa.mcs.servicio.renhice.McsServicioRenhiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.968 s - in pe.gob.minsa.mcs.servicio.renhice.McsServicioRenhiceApplicationTests
