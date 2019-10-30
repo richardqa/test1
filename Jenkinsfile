@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'richardqa:mcs-servicio-renhice:1.0.0'
+            image 'richardqa/mcs-servicio-renhice:1.0.0'
             args '-v /home/usr_linux/proyecto-test/test1/mcs-minsa:/opt/data/mcs-minsa'
         }
     }
